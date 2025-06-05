@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/tagmusic-ai-platform-107314-ca464da8/tagmusic_ai_platform_frontend"
+}
